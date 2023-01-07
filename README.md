@@ -36,6 +36,8 @@
 
 ![image](https://user-images.githubusercontent.com/101791322/211159015-5384a333-3d52-40a9-9b8f-30f39de8a0a7.png)
 
+![image](https://user-images.githubusercontent.com/101791322/211159542-2476910a-1d86-4364-9a86-2dc448b0ecbc.png)
+
 
 **Achieved 88.24% testing accuracy**
 
@@ -57,6 +59,8 @@
 * Use binary crossentropy loss with adam optimizer and metrics is accuracy
 * Train model of 60 epoch and set the class weight
 * Plotting training, validation loss as well as accuracy
+
+![image](https://user-images.githubusercontent.com/101791322/211159525-175a952d-87b2-44ac-a21a-ff7d0ae21282.png)
 
 ![image](https://user-images.githubusercontent.com/101791322/211159443-7d0059d2-032c-4b61-b3c7-5b47061af787.png)
 
