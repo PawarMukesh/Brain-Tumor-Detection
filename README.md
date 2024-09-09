@@ -1,8 +1,8 @@
-# Brain-Tumor-Detection
+# BRAIN TUMOUR DETECTION
 
-# BUSINESS CASE: BASED ON BRAIN MRI IMAGES DATASET WE NEED PREDICT BRAIN TUMOUR
+## BUSINESS CASE: BASED ON BRAIN MRI IMAGES DATASET WE NEED PREDICT BRAIN TUMOUR
 
-# TASK: BINARY CLASSIFICATION
+### TASK: BINARY CLASSIFICATION
 
 ![image](https://user-images.githubusercontent.com/101791322/211158791-5a7192c2-78c1-40dc-a73f-8e0e955645fa.png)
 
@@ -64,7 +64,7 @@
 
 ![image](https://user-images.githubusercontent.com/101791322/211159443-7d0059d2-032c-4b61-b3c7-5b47061af787.png)
 
-### Save model
+## Save model
 
 **Achieved 92.16% testing accuracy**
 
